@@ -2,7 +2,6 @@
 ### Project for efficient number and letter detection using a camera capture input to the code files and show/store the detected output
 
 ### This project facilitates the source files to the code in .&#109; format.
--
 
 ------------
 
